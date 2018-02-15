@@ -1,3 +1,8 @@
+test_config
+muse
+muse.log
+muse.pid
+
 # Object files
 *.o
 *.ko
